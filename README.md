@@ -118,7 +118,7 @@ Predictions in StarCraft: Brood War</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Game-AI-papers/blob/master/gam(62).pdf" style="text-decoration:none;">Multi-Agent Reinforcement Learning: a critical survey</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Game-AI-papers/blob/master/gam(63).pdf" style="text-decoration:none;">TTemporal-difference search in computer Go</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Game-AI-papers/blob/master/gam(63).pdf" style="text-decoration:none;">Temporal-difference search in computer Go</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Game-AI-papers/blob/master/gam(64).pdf" style="text-decoration:none;">Special Tactics: a Bayesian Approach to Tactical Decision-making</a></li>
  
